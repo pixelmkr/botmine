@@ -1,4 +1,4 @@
-testrp
-======
+botmine
+=======
 
-just a test repo to get started
+Lemmings-style game written in Python
